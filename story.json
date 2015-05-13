@@ -37,13 +37,19 @@
           "name": "Mixed vegetables",
           "description": "A bag of frozen corn, peas, and carrots",
           "price": 1.00,
-          "notes": "It's important to get vegetables, and while these aren't as healthy or tasty as fresh vegetables, they do save Alexa the time of cutting the vegetables. But, it has been hard to get Paul and Sophie to eat the vegetables - they tend to throw them away"
+          "notes": "It's important to get vegetables, and while these aren't as healthy or tasty as fresh vegetables, they do save Alexa the time of cutting the vegetables. But, it has been hard to get Paul and Sophie to eat the vegetables - they tend to throw them away."
         },
         {
           "name": "Frozen waffles",
           "description": "8 Eggo frozen waffles",
           "price": 2.00,
           "notes": "The past two months, the family has been eating cereal for breakfast. The kids (and Alexa) have been getting sick of it, so this would be a nice treat to start the day"
+        },
+        {
+          "name": "Hood Ice Cream",
+          "description": "From the New England Creamery",
+          "price": 5.00,
+          "notes": "A summer treat and Sophie's favourite flavor. Bringing this home would make the kids really happy, especially since you haven't been able to spend as much time with them lately."
         }
       ]
     },
@@ -54,25 +60,67 @@
           "name": "Apples",
           "description": "Bag of 8 apples",
           "price": 2.99,
-          "notes": "This would be a quick and convenient snack for the family. However, it's quite pricy"
+          "notes": "This would be a quick and convenient snack for the family. However, it's quite pricy."
         },
         {
           "name": "Mango",
           "description": "Ataulfo mangos",
           "price": 0.99,
-          "notes": "While expensive, the kids might actually eat this"
+          "notes": "While expensive, the kids might actually eat this."
         },
         {
           "name": "Mini sweet peppers",
           "description": "A pound of sweet Italian Cubanelle peppers",
           "price": 1.49,
-          "notes": "These look nice, but Alexa doesn't know when she'll have the time to actually cook them in something"
+          "notes": "These look nice, but Alexa doesn't know when she'll have the time to actually cook them in something."
         },
         {
           "name": "Green beans",
           "description": "A 12 oz bag of green beans",
           "price": 2.00,
           "notes": "Cooking these into a dish may be hard, but Alexa thinks she may be able to steam them. But would the kids eat this?"
+        },
+        {
+          "name": "Potatoes",
+          "description": "A 5lb bag of Florida Red Potatoes",
+          "price": 2.29,
+          "notes": "Cooking these will take some time, but the kids always like your potatoes."
+        },
+        {
+          "name": "Raspberries",
+          "description": "6oz Package of Driscoll's Premium Raspberries",
+          "price": 2.50,
+          "notes": "These are pricy, but your absolute favorite fruit. You've been working really hard lately, don't you deserve a treat?"
+        }
+      ]
+    },{
+      "description": "Alexa then enters the deli section.",
+      "items": [
+        {
+          "name": "Ham",
+          "description": "1lb of Thinly Sliced Cooked Ham",
+          "price": 4.99,
+          "notes": "This would make for great sandwiches. Sophie strongly dislikes the school lunches, but has been eating them because she is a good sport. Buying her some sandwich supplies would make her very happy."
+        },{
+          "name": "American Cheese",
+          "description": "1lb of American Sliced Cheese",
+          "price": 2.99,
+          "notes": "What is a sandwich without cheese?"
+        }
+      ]
+    },{
+      "description": "Lastly Alexa enters the poultry section.",
+      "items": [
+        {
+          "name": "Chicken",
+          "description": "1lb of Boneless Chicken Thighs",
+          "price": 1.99,
+          "notes": "All natural. The kids always love your chicken, only problem is finding the time to cook it. You don't even get home from work until after 6pm."
+        },{
+          "name": "American Cheese",
+          "description": "1lb of American Sliced Cheese",
+          "price": 2.99,
+          "notes": "What is a sandwich without cheese?"
         }
       ]
     }
