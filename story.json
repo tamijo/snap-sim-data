@@ -6,14 +6,14 @@
       "items": [
         {
           "name": "Whole milk",
-          "description": "A gallon of Greenshop-brand whole milk",
-          "price": 1.29,
+          "description": "Two gallons of Shaws-Brand Whole Milk",
+          "price": 6.38,
           "notes": "Kids need the calcium and vitamin D in milk. But on top of that, Paul has been having trouble sleeping recently, and a glass of milk before bed helps him sleep."
         },
         {
           "name": "Yogurt",
-          "description": "6-pack of 'Danimals' yogurt cups",
-          "price": 2.00,
+          "description": "12-pack of 'Danimals' yogurt cups",
+          "price": 4.00,
           "notes": "It's not as healthy as organic greek yogurt, but the kids need something for their snack time at school. The past few weeks, they haven't been taking anything."
         },
         {
@@ -29,14 +29,14 @@
       "items": [
         {
           "name": "Frozen macaroni and cheese",
-          "description": "Macaroni and cheese - serves 3",
-          "price": 2.00,
+          "description": "Three Meals of Macaroni and Cheese (serves 3 each meal)",
+          "price": 6.00,
           "notes": "Working a 10 hour day is exhausting, and this would save Alexa a great deal of time from cooking which she instead use to spend time with her children"
         },
         {
           "name": "Mixed vegetables",
-          "description": "A bag of frozen corn, peas, and carrots",
-          "price": 1.00,
+          "description": "A large bag of frozen corn, peas, and carrots",
+          "price": 2.00,
           "notes": "It's important to get vegetables, and while these aren't as healthy or tasty as fresh vegetables, they do save Alexa the time of cutting the vegetables. But, it has been hard to get Paul and Sophie to eat the vegetables - they tend to throw them away."
         },
         {
@@ -50,11 +50,23 @@
           "description": "From the New England Creamery",
           "price": 5.00,
           "notes": "A summer treat and Sophie's favourite flavor. Bringing this home would make the kids really happy, especially since you haven't been able to spend as much time with them lately."
+        },
+        {
+          "name": "Healthy Choice Frozen Dinner",
+          "description": "Three Frozen Dinners",
+          "price": 11.39,
+          "notes": "All you have to do is put this in the microwave and boom! Instant dinner. This is a quick solution"
+        },
+        {
+          "name": "Cole's Cheesesticks",
+          "description": "A 22oz Package: Asiago and Prezel",
+          "price": 4.00,
+          "notes": "Paul inhales these like they're air and Sophie loves taking them for her school snacks."
         }
       ]
     },
     {
-      "description": "Now, Alexa enters the produce section.",
+      "description": "You then make your way to the produce section.",
       "items": [
         {
           "name": "Apples",
@@ -94,7 +106,7 @@
         }
       ]
     },{
-      "description": "Alexa then enters the deli section.",
+      "description": "You stop by the Deli section, which is right next to the produce section.",
       "items": [
         {
           "name": "Ham",
@@ -109,7 +121,7 @@
         }
       ]
     },{
-      "description": "Lastly Alexa enters the poultry section.",
+      "description": "You then enter the poultry section, close to where you started in the dairy section.",
       "items": [
         {
           "name": "Chicken",
@@ -121,6 +133,32 @@
           "description": "1lb of American Sliced Cheese",
           "price": 2.99,
           "notes": "What is a sandwich without cheese?"
+        }
+      ]
+    },
+    {
+      "description": "Lastly, you stop by the snack section to pick up some treats for Friday's family movie night. You want to somewhat spoil the kids because you aren't able to take them to the new Avengers movie at the theatre.",
+      "items": [
+        {
+          "name": "Kettle Potato Chips",
+          "description": "8.5oz Bag of Potato Chips",
+          "price": 2.50,
+          "notes": "These are Sophie's favorite chips."
+        },{
+          "name": "Doritos",
+          "description": "11oz Bag of Cheesy Doritos",
+          "price": 2.50,
+          "notes": "These are Paul's favorite chips."
+        },{
+          "name": "El Sabroso Tortilla Chips",
+          "description": "12oz Bag of Potato Chips",
+          "price": 2.50,
+          "notes": "These are your favorite chips."
+        },{
+          "name": "Apple Juice",
+          "description": "Apple & Eve 100% Apple Juice, 64oz Bottle",
+          "price": 2.50,
+          "notes": "Everyone in the family likes apple juice. Without this, there will be nothing to balance the dryness of the chips in your mouth."
         }
       ]
     }
