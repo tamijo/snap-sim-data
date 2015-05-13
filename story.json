@@ -6,20 +6,23 @@
       "items": [
         {
           "name": "Whole milk",
-          "description": "Two gallons of Shaws-Brand Whole Milk",
-          "price": 6.38,
+          "description": "A gallon of Shaws-Brand Whole Milk",
+          "price": 3.19,
+          "quantity": 2,
           "notes": "Kids need the calcium and vitamin D in milk. But on top of that, Paul has been having trouble sleeping recently, and a glass of milk before bed helps him sleep."
         },
         {
           "name": "Yogurt",
-          "description": "12-pack of 'Danimals' yogurt cups",
-          "price": 4.00,
+          "description": "6-pack of 'Danimals' yogurt cups",
+          "price": 2.00,
+          "quantity": 2,
           "notes": "It's not as healthy as organic greek yogurt, but the kids need something for their snack time at school. The past few weeks, they haven't been taking anything."
         },
         {
           "name": "Greek Yogurt",
           "description": "Organic, greek yogurt",
           "price": 5.00,
+          "quantity": 1,
           "notes": "Protein rich - a healthy option for the childens' snacktime at school"
         }
       ]
@@ -29,38 +32,44 @@
       "items": [
         {
           "name": "Frozen macaroni and cheese",
-          "description": "Three Meals of Macaroni and Cheese (serves 3 each meal)",
-          "price": 6.00,
+          "description": "A Macaroni and Cheese Meal that Serves 3",
+          "price": 2.00,
+          "quantity": 3,
           "notes": "Working a 10 hour day is exhausting, and this would save Alexa a great deal of time from cooking which she instead use to spend time with her children"
         },
         {
           "name": "Mixed vegetables",
           "description": "A large bag of frozen corn, peas, and carrots",
           "price": 2.00,
+          "quantity": 2,
           "notes": "It's important to get vegetables, and while these aren't as healthy or tasty as fresh vegetables, they do save Alexa the time of cutting the vegetables. But, it has been hard to get Paul and Sophie to eat the vegetables - they tend to throw them away."
         },
         {
           "name": "Frozen waffles",
           "description": "8 Eggo frozen waffles",
           "price": 2.00,
+          "quantity": 2,
           "notes": "The past two months, the family has been eating cereal for breakfast. The kids (and Alexa) have been getting sick of it, so this would be a nice treat to start the day"
         },
         {
           "name": "Hood Ice Cream",
           "description": "From the New England Creamery",
           "price": 5.00,
+          "quantity": 1,
           "notes": "A summer treat and Sophie's favourite flavor. Bringing this home would make the kids really happy, especially since you haven't been able to spend as much time with them lately."
         },
         {
           "name": "Healthy Choice Frozen Dinner",
-          "description": "Three Frozen Dinners",
-          "price": 11.39,
-          "notes": "All you have to do is put this in the microwave and boom! Instant dinner. This is a quick solution"
+          "description": "Frozen Dinner that Serves One",
+          "price": 3.80,
+          "quantity": 3,
+          "notes": "All you have to do is put this in the microwave and boom! Instant dinner. This is a quick way to feed the kids while running on a tight schedule."
         },
         {
           "name": "Cole's Cheesesticks",
-          "description": "A 22oz Package: Asiago and Prezel",
-          "price": 4.00,
+          "description": "An 11oz Package: Asiago and Prezel",
+          "price": 2.00,
+          "quantity": 2,
           "notes": "Paul inhales these like they're air and Sophie loves taking them for her school snacks."
         }
       ]
@@ -72,36 +81,42 @@
           "name": "Apples",
           "description": "Bag of 8 apples",
           "price": 2.99,
+          "quantity": 1,
           "notes": "This would be a quick and convenient snack for the family. However, it's quite pricy."
         },
         {
           "name": "Mango",
           "description": "Ataulfo mangos",
           "price": 0.99,
-          "notes": "While expensive, the kids might actually eat this."
+          "quantity": 3,
+          "notes": "While expensive, the kids really like mango slices for desert and school snacks."
         },
         {
           "name": "Mini sweet peppers",
           "description": "A pound of sweet Italian Cubanelle peppers",
           "price": 1.49,
-          "notes": "These look nice, but Alexa doesn't know when she'll have the time to actually cook them in something."
+          "quantity": 1,
+          "notes": "These look nice, but you doesn't know when she'll have the time to actually cook them in something."
         },
         {
           "name": "Green beans",
           "description": "A 12 oz bag of green beans",
           "price": 2.00,
-          "notes": "Cooking these into a dish may be hard, but Alexa thinks she may be able to steam them. But would the kids eat this?"
+          "quantity": 2,
+          "notes": "Cooking you into a dish may be hard, but Alexa thinks she may be able to steam them. Would the kids eat it though is the real question."
         },
         {
           "name": "Potatoes",
           "description": "A 5lb bag of Florida Red Potatoes",
           "price": 2.29,
+          "quantity": 2,
           "notes": "Cooking these will take some time, but the kids always like your potatoes."
         },
         {
           "name": "Raspberries",
           "description": "6oz Package of Driscoll's Premium Raspberries",
           "price": 2.50,
+          "quantity": 1,
           "notes": "These are pricy, but your absolute favorite fruit. You've been working really hard lately, don't you deserve a treat?"
         }
       ]
@@ -112,12 +127,14 @@
           "name": "Ham",
           "description": "1lb of Thinly Sliced Cooked Ham",
           "price": 4.99,
+          "quantity": 1,
           "notes": "This would make for great sandwiches. Sophie strongly dislikes the school lunches, but has been eating them because she is a good sport. Buying her some sandwich supplies would make her very happy."
         },{
           "name": "American Cheese",
           "description": "1lb of American Sliced Cheese",
           "price": 2.99,
-          "notes": "What is a sandwich without cheese?"
+          "quantity": 2,
+          "notes": "In addition to being a necessity for sandwiches, this cheese makes a gerat snack on its own."
         }
       ]
     },{
@@ -127,12 +144,31 @@
           "name": "Chicken",
           "description": "1lb of Boneless Chicken Thighs",
           "price": 1.99,
+          "quantity": 3,
           "notes": "All natural. The kids always love your chicken, only problem is finding the time to cook it. You don't even get home from work until after 6pm."
         },{
-          "name": "American Cheese",
-          "description": "1lb of American Sliced Cheese",
+          "name": "Bacon",
+          "description": "12oz - 16oz package of Carando Sliced Bacon",
           "price": 2.99,
-          "notes": "What is a sandwich without cheese?"
+          "quantity": 1,
+          "notes": "Put some bacon in your vegetables will make the kids a lot more likely to eat them."
+        }
+      ]
+    },{
+      "description": "You're almost finished when you walk by the baking isle. Sophie loves to bake and Paul loves to lick the spoons.",
+      "items": [
+        {
+          "name": "Muffin Mix",
+          "description": "Betty Crocker Muffin Mix Box",
+          "price": 3.19,
+          "quantity": 1,
+          "notes": "Sophie would enjoy baking these, and then you would have breakfast/snacks for a few days too."
+        },{
+          "name": "Frosting",
+          "description": "Betty Crocker Frosting Tube",
+          "price": 2.19,
+          "quantity": 1,
+          "notes": "The kids will be disappointed if they don't have frosting for the muffins."
         }
       ]
     },
@@ -143,21 +179,25 @@
           "name": "Kettle Potato Chips",
           "description": "8.5oz Bag of Potato Chips",
           "price": 2.50,
+          "quantity": 1,
           "notes": "These are Sophie's favorite chips."
         },{
           "name": "Doritos",
           "description": "11oz Bag of Cheesy Doritos",
           "price": 2.50,
+          "quantity": 1,
           "notes": "These are Paul's favorite chips."
         },{
           "name": "El Sabroso Tortilla Chips",
           "description": "12oz Bag of Potato Chips",
           "price": 2.50,
+          "quantity": 1,
           "notes": "These are your favorite chips."
         },{
           "name": "Apple Juice",
           "description": "Apple & Eve 100% Apple Juice, 64oz Bottle",
           "price": 2.50,
+          "quantity": 1,
           "notes": "Everyone in the family likes apple juice. Without this, there will be nothing to balance the dryness of the chips in your mouth."
         }
       ]
