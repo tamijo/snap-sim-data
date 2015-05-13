@@ -24,6 +24,7 @@ if __name__=='__main__':
             # Add the item to the result set.
             result_json["items"].append({
                 "name": item["name"],
+                "quantity": item["quantity"],
                 "description": item["description"],
                 "price": item["price"],
                 "notes": item["notes"]
