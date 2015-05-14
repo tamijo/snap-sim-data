@@ -70,12 +70,14 @@
           "name": "Broccoli",
           "description": "A pound of broccoli",
           "price": 2.50,
+          "quantity": 1,
           "notes": "You don't mind the taste, but your kids definitely don't enjoy broccoli."
         },
         {
           "name": "Carrots",
           "description": "A one pound bag of carrots",
           "price": 2.00,
+          "quantity": 1,
           "notes": "Just another vegetable."
         }
       ]
